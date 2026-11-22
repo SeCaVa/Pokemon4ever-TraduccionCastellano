@@ -16,9 +16,9 @@ Traducción no oficial al castellano (España) de **Pokémon 4ever**, el hack al
 2. Aplica el parche [`Pokemon4ever_ES.bps`](https://github.com/SeCaVa/Pokemon4ever-TraduccionCastellano/releases/latest)
    con el [parcheador web](https://secava.github.io/secava-parcheador/), con
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) o con Floating IPS (Flips).
-3. El resultado es una ROM de Game Boy Color con **CRC32 `05AA2D42`**. Juega con cualquier emulador de GBC.
+3. El resultado es una ROM de Game Boy Color con **CRC32 `81A8CCBE`**. Juega con cualquier emulador de GBC.
 
-Versión actual: **v0.13**. SHA-256 del parche: `69fe89b1793469009ca5f454e75148bdca425592504b1c115a5124727ca8c294`.
+Versión actual: **v0.14**. SHA-256 del parche: `779b34a9e70aaead98df9aaeef55b75d3089a6a8f4ad3c773fb1ab7f512f828d`.
 
 El parche se aplica **directamente a Pokémon Gold USA**: no hace falta conseguir el hack alemán, porque ya lo incluye.
 
@@ -72,9 +72,9 @@ Unofficial **Spanish (Spain) translation** of **Pokémon 4ever**, the **POKE4EVE
 2. Apply the patch [`Pokemon4ever_ES.bps`](https://github.com/SeCaVa/Pokemon4ever-TraduccionCastellano/releases/latest)
    with the [web patcher](https://secava.github.io/secava-parcheador/),
    [Rom Patcher JS](https://www.marcrobledo.com/RomPatcher.js/) or Floating IPS (Flips).
-3. The result is a Game Boy Color ROM with **CRC32 `05AA2D42`**. Play it on any GBC emulator.
+3. The result is a Game Boy Color ROM with **CRC32 `81A8CCBE`**. Play it on any GBC emulator.
 
-Current version: **v0.13**. Patch SHA-256: `69fe89b1793469009ca5f454e75148bdca425592504b1c115a5124727ca8c294`.
+Current version: **v0.14**. Patch SHA-256: `779b34a9e70aaead98df9aaeef55b75d3089a6a8f4ad3c773fb1ab7f512f828d`.
 
 The patch applies **directly to Pokémon Gold USA**: you don't need the German hack, it's already included.
 
